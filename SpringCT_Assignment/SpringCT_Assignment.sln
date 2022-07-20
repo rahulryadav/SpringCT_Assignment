@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringCTRepository", "SpringCTRepository\SpringCTRepository.csproj", "{0443D04D-B207-4DE5-9F92-613A38D76195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringCTWebAPI", "SpringCTWebAPI\SpringCTWebAPI.csproj", "{15B69C2E-1559-4F74-92E9-40E61D7337F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringCTWebClient", "SpringCTWebClient\SpringCTWebClient.csproj", "{F7C8A676-A6F4-4AF7-8BC8-08344A42551C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0443D04D-B207-4DE5-9F92-613A38D76195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0443D04D-B207-4DE5-9F92-613A38D76195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0443D04D-B207-4DE5-9F92-613A38D76195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0443D04D-B207-4DE5-9F92-613A38D76195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B69C2E-1559-4F74-92E9-40E61D7337F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B69C2E-1559-4F74-92E9-40E61D7337F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B69C2E-1559-4F74-92E9-40E61D7337F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B69C2E-1559-4F74-92E9-40E61D7337F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C8A676-A6F4-4AF7-8BC8-08344A42551C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C8A676-A6F4-4AF7-8BC8-08344A42551C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C8A676-A6F4-4AF7-8BC8-08344A42551C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C8A676-A6F4-4AF7-8BC8-08344A42551C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5F7EB74-FC7B-4759-99DA-C6A0144F550E}
+	EndGlobalSection
+EndGlobal
